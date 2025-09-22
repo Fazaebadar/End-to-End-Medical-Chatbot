@@ -173,9 +173,9 @@ This project is licensed under the MIT License -
 ## 📞 Contact
 
 For questions or support, please contact:
-- Email: [ai.engineer360@gmail.com]
-- GitHub: [@Aiengineer360](https://github.com/Aiengineer360)
+- Email: [fazaebadar@gmail.com]
 
 ---
 
 🌟 **Happy Diagnosing!** Remember, your health comes first - always consult a doctor for serious concerns. 🌟
+
